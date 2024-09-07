@@ -1,12 +1,48 @@
-## Hi there 👋
+# 전북대학교 캡스톤 디자인 프로젝트
 
-<!--
+## 프로젝트 활동 내역
+[Main Repository](https://github.com/JBNU-project/main)
 
-**Here are some ideas to get you started:**
+## 프로젝트 개요
+다국어 웹툰 작품 생성을 위한 인공지능 데이터셋 구축 및 이미지/텍스트 인식 기술을 구현하는 것을 프로젝트 목표로 하고 있습니다.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 지도교수 및 주요 인원
+
+### 지도교수
+- **이경수** (전북대학교)
+
+### 프로젝트 매니저 (PM)
+- **강경태** (전북대학교)
+
+### 팀원
+- **홍건하** (전북대학교)
+- **최홍석** (전북대학교) [LinkedIn](https://www.linkedin.com/in/%ED%99%8D%EC%84%9D-%EC%B5%9C-089b23302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- **오준호** (전북대학교)
+  
+
+## 일정
+
+### 9월
+- **2일:** 오프라인 회의 및 보고서 작성
+- **5일:** 오프라인 회의
+
+### 10월
+
+### 11월
+
+### 12월
+
+## 해야 할 일
+
+### 전체 인원
+- 인공지능 학습을 위한 웹툰 캐릭터 데이터셋 구축
+- 인공지능 학습을 위한 효과음 데이터셋 구축
+- 효과음 탐지 인공지능 모델 개발
+
+### 개별 할 일
+- **강경태:**
+- **홍건하:**
+- **최홍석:**
+- **오준호:**
+
+
