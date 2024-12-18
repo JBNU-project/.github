@@ -13,13 +13,12 @@
 
 ## 👥 팀 구성
 
-| 역할 | 이름 | 소속 |
-|:---:|:---:|:---:|
-| 지도교수 | 이경수 | 전북대학교 |
-| PM | 강경태 | 전북대학교 |
-| 팀원 | 홍건하 | 전북대학교 |
-| 팀원 | 최홍석 | 전북대학교 |
-| 팀원 | 오준호 | 전북대학교 |
+### 👥 Machina Sapience Team
+| [PM]강경태 | 홍건하 | 최홍석 | 오준호 |
+| :---: | :---: | :---: | :---: |
+| <img width="160px" src= "https://github.com/user-attachments/assets/fa5865d1-5e6e-4738-bb95-eaff0b5b2892"/> | <img width="160px" src= "https://github.com/user-attachments/assets/8c156d05-acee-4d11-8ff3-4659e4a99dd8"/> | <img width="160px" src="https://github.com/user-attachments/assets/c98e0197-3648-4420-9c9e-2e5477fb0f09"/> | <img width="160px" src="https://github.com/user-attachments/assets/d6e0be30-f2a0-4fe1-8f14-a852c075c617"/> |
+| [@](https://github.com/honggunha) | [@kimmireu0220](https://github.com/kimmireu0220) | [@meoham1](https://github.com/meoham1) | [@ChatHongPT](https://github.com/ChatHongPT) |
+| AI(Python) | AI(Python) | AI(Python) | Android(Kotlin)
 
 ## 🚀 주요 기술
 
