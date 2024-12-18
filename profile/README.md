@@ -58,8 +58,18 @@
 - 다중 OCR 모델 성능 비교 분석
 - 이미지 인페인팅을 통한 텍스트 제거 기술 구현
 
+## 🔧 서비스 파이프라인
+![IMG_0400](https://github.com/user-attachments/assets/5d6b578f-cc28-466f-a6cc-9e0160b390fe)
+
+## 📊 WBS (Work Breakdown Structure)
+![스크린샷, 2024-12-18 14-13-42](https://github.com/user-attachments/assets/2b7569c5-44e3-4c1e-8134-23343352e036)
+
 ## 🔗 관련 기술
 
 ![RoboFlow](https://img.shields.io/badge/RoboFlow-0080FF?style=for-the-badge&logo=roboflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Tesseract](https://img.shields.io/badge/Tesseract-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![IOPaint](https://img.shields.io/badge/IOPaint-FF6B6B?style=for-the-badge&logo=medibangpaint&logoColor=white)
+![GroundingDINO](https://img.shields.io/badge/GroundingDINO-70FFAF?style=for-the-badge&logo=Deno&logoColor=white)
+![Naver Clova OCR](https://img.shields.io/badge/Naver_Clova_OCR-00C300?style=for-the-badge&logo=naver&logoColor=white)
+![PaddleOCR](https://img.shields.io/badge/PaddleOCR-2B50FF?style=for-the-badge&logo=paddlepaddle&logoColor=white)
+
