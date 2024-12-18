@@ -66,6 +66,48 @@
 2. 이미지 내 텍스트 및 효과음 자동 인식 기술 개발
 3. 기계 학습 기반 다국어 번역 시스템 구현
 
+## Grounding DINO 학습 과정
+
+### Step 1: PSD 파일을 이미지로 변환 및 컷 추출
+![Screenshot from 2024-12-18 16-16-41](https://github.com/user-attachments/assets/4a7b962b-8000-47e5-be0d-dcd46903350e)
+
+### Step 2: 이미지 내 효과음 라벨링
+![Screenshot from 2024-12-18 16-17-14](https://github.com/user-attachments/assets/ac669998-b679-4c99-9f88-434b88b4bd17)
+
+### Step 3: 학습 데이터 생성
+![Screenshot from 2024-12-18 16-17-52](https://github.com/user-attachments/assets/bd9ed585-32be-4599-90ba-6dc1566a4835)
+
+### Step 4: Grounding DINO 학습
+![Screenshot from 2024-12-18 16-18-56](https://github.com/user-attachments/assets/3a72b1c9-f523-4ad4-ba55-d5618b7ae3cd)
+
+## Paddle OCR 학습 과정
+
+### Step 1: PSD 파일 내 효과음 레이어 찾기
+![Screenshot from 2024-12-18 16-28-21](https://github.com/user-attachments/assets/f53b87c8-fad2-4e9e-a3ac-6956e5a5167d)
+
+### Step 2: 레이어 정보 추출 및 정제
+![Screenshot from 2024-12-18 16-28-38](https://github.com/user-attachments/assets/ed9387a4-e1b7-41f0-886b-c9de17b0fdb0)
+
+### Step 3: 학습 데이터 생성
+![Screenshot from 2024-12-18 16-28-55](https://github.com/user-attachments/assets/af1459eb-e35c-4657-bca7-59f2e19947b3)
+
+### Step 4: Paddle OCR
+![Screenshot from 2024-12-18 16-29-12](https://github.com/user-attachments/assets/4a982a86-d27b-4e55-96af-10617d6744ee)
+
+## 효과음 및 대사 제거 과정
+
+### Step 1: 이미지 파일 내 효과음 탐지 및 좌표 가져오기
+![Screenshot from 2024-12-18 16-29-43](https://github.com/user-attachments/assets/c974d87e-6887-49cf-9633-990ba82dbb2f)
+
+### Step2: 효과음 좌표를 활용한 mask 파일 생성
+![Screenshot from 2024-12-18 16-30-55](https://github.com/user-attachments/assets/a4d69a5e-2693-4336-94ae-9bcc9cd57ebd)
+
+### Step3: PSD 파일 내 효과음 레이어 찾기
+![Screenshot from 2024-12-18 16-31-11](https://github.com/user-attachments/assets/f9837dae-372f-4e24-9055-a110a9e94813)
+
+### Step4: 결과
+![Screenshot from 2024-12-18 16-31-33](https://github.com/user-attachments/assets/83a7c2ac-92be-4eeb-8aa5-2cf1a2567b9b)
+
 ## 📊 주요 기술적 성과
 
 - 효과음 자동 추출 프로그램 개발
@@ -86,6 +128,38 @@
 ![GroundingDINO](https://img.shields.io/badge/GroundingDINO-70FFAF?style=for-the-badge&logo=Deno&logoColor=white)
 ![Naver Clova OCR](https://img.shields.io/badge/Naver_Clova_OCR-00C300?style=for-the-badge&logo=naver&logoColor=white)
 ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-2B50FF?style=for-the-badge&logo=paddlepaddle&logoColor=white)
+
+## OCR 정확도 성능 비교
+![KakaoTalk_20241218_163313363](https://github.com/user-attachments/assets/01df25c1-0282-4af1-894c-6af8187958a8)
+
+- **Machina OCR**은 다른 OCR 시스템과 비교했을 때 뛰어난 성능을 자랑합니다. **Fine-tuned Paddle OCR** 기반으로 한 Machina OCR은 특정 데이터셋과 사용 사례에 맞게 최적화되었으며, 이로 인해 다른 업계 표준 OCR 시스템들을 크게 능가하는 성과를 거두었습니다.
+
+## 주요 성과
+
+### 1. **가장 높은 정확도**
+- Machina OCR은 **88%**의 정확도로, 다양한 OCR 시스템 중에서 **가장 높은 정확도**를 기록했습니다. 이는 파인튜닝된 **Paddle OCR**의 뛰어난 성능을 바탕으로 달성되었습니다.
+
+### 2. **기존 OCR 시스템들과의 비교**
+- **Google OCR (42%)**, **Tesseract OCR (29%)** 등과 비교했을 때, Machina OCR은 **월등한 인식 성능**을 보이며, 다른 OCR 솔루션들을 압도했습니다.
+
+### 3. **맞춤형 최적화**
+- **지도 학습**과 **파인튜닝**을 통해 Machina OCR은 기존의 오프더쉘프 OCR 모델들을 특정 데이터셋에 맞게 최적화하였으며, 이를 통해 OCR 인식 정확도가 크게 향상되었습니다. 이 과정에서 **맞춤형 최적화**가 얼마나 중요한지를 잘 보여주고 있습니다.
+
+### 4. **업계 선두 제품 능가**
+- 파인튜닝된 **Paddle OCR**을 활용한 Machina OCR은 기존의 업계 선두 OCR 솔루션들에 비해 확연히 뛰어난 성과를 보이며, **OCR 기술의 발전 가능성**을 입증했습니다.
+  
+
+## **성능 비교 차트**
+
+| OCR 시스템            | 정확도 (%) |
+|--------------------|-----------|
+| **Fine-tuned Paddle OCR (Machina OCR)** | **88%**     |
+| **Never Clova OCR**    | 58%       |
+| **Google OCR**         | 42%       |
+| **Tesseract OCR**      | 29%       |
+| **Easy OCR**           | 21%       |
+
+---
 
 ## 🎬 시연 영상
 
