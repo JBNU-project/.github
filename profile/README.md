@@ -76,7 +76,7 @@
 ![Naver Clova OCR](https://img.shields.io/badge/Naver_Clova_OCR-00C300?style=for-the-badge&logo=naver&logoColor=white)
 ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-2B50FF?style=for-the-badge&logo=paddlepaddle&logoColor=white)
 
-## 시연 영상
+## 🎬 시연 영상
 
 https://github.com/user-attachments/assets/66b7e280-f7ea-4c29-a7c4-c3d511b0ee22
 
