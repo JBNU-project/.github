@@ -129,7 +129,7 @@
 ![Naver Clova OCR](https://img.shields.io/badge/Naver_Clova_OCR-00C300?style=for-the-badge&logo=naver&logoColor=white)
 ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-2B50FF?style=for-the-badge&logo=paddlepaddle&logoColor=white)
 
-## OCR 정확도 성능 비교
+## 🔎 OCR 정확도 성능 비교
 ![KakaoTalk_20241218_163313363](https://github.com/user-attachments/assets/01df25c1-0282-4af1-894c-6af8187958a8)
 
 - **Machina OCR**은 다른 OCR 시스템과 비교했을 때 뛰어난 성능을 자랑합니다. **Fine-tuned Paddle OCR** 기반으로 한 Machina OCR은 특정 데이터셋과 사용 사례에 맞게 최적화되었으며, 이로 인해 다른 업계 표준 OCR 시스템들을 크게 능가하는 성과를 거두었습니다.
@@ -149,7 +149,7 @@
 - 파인튜닝된 **Paddle OCR**을 활용한 Machina OCR은 기존의 업계 선두 OCR 솔루션들에 비해 확연히 뛰어난 성과를 보이며, **OCR 기술의 발전 가능성**을 입증했습니다.
   
 
-## **성능 비교 차트**
+## 📊 성능 비교 차트
 
 | OCR 시스템            | 정확도 (%) |
 |--------------------|-----------|
