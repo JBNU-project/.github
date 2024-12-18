@@ -1,6 +1,17 @@
-# 🤖 Machina OCR: 다국어 웹툰 생성을 위한 AI 데이터셋 구축 
-
 ![001](https://github.com/user-attachments/assets/faf4b195-809b-4c3a-893e-3da3f6bd6c9d)
+
+# 🤖 Machina OCR: 다국어 웹툰 생성을 위한 AI 데이터셋 구축 및 아미지/텍스트 인식 
+```
+💜 다국어 웹툰 AI 데이터셋 구축 및 이미지/텍스트 인식 프로젝트
+📆 2024.09.02 ~ 2024.12.20
+🖥️ 전북대학교 캡스톤 디자인 프로젝트
+```
+<div align="center">
+  <a href="https://github.com/JBNU-project/main/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkfpd.org&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%2370FF00&title=Machina+OCR+Main+Repository&edge_flat=false"/></a>
+</div>
+
+---
+
 ## 🌟 프로젝트 소개
 
 본 프로젝트는 웹툰의 다국어 번역을 위한 혁신적인 AI 솔루션 개발을 목표로 합니다. 이미지 처리, OCR, 기계 번역 기술을 결합하여 웹툰의 텍스트와 효과음을 자동으로 인식하고 번역하는 통합 시스템을 구축합니다.
