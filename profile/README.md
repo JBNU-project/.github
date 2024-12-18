@@ -1,48 +1,65 @@
-# 전북대학교 캡스톤 디자인 프로젝트
+# 📚 다국어 웹툰 AI 데이터셋 구축 및 이미지/텍스트 인식 프로젝트
+![001](https://github.com/user-attachments/assets/faf4b195-809b-4c3a-893e-3da3f6bd6c9d)
+## 🌟 프로젝트 소개
 
-## 프로젝트 활동 내역
-[Main Repository](https://github.com/JBNU-project/main)
+본 프로젝트는 웹툰의 다국어 번역을 위한 혁신적인 AI 솔루션 개발을 목표로 합니다. 이미지 처리, OCR, 기계 번역 기술을 결합하여 웹툰의 텍스트와 효과음을 자동으로 인식하고 번역하는 통합 시스템을 구축합니다.
 
-## 프로젝트 개요
-다국어 웹툰 작품 생성을 위한 인공지능 데이터셋 구축 및 이미지/텍스트 인식 기술을 구현하는 것을 프로젝트 목표로 하고 있습니다.
+## 🛡️ 기술 스택
 
-## 지도교수 및 주요 인원
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Paddle](https://img.shields.io/badge/Paddle-2B50FF?style=for-the-badge&logo=paddlepaddle&logoColor=white)
 
-### 지도교수
-- **이경수** (전북대학교)
+## 👥 팀 구성
 
-### 프로젝트 매니저 (PM)
-- **강경태** (전북대학교)
+| 역할 | 이름 | 소속 |
+|:---:|:---:|:---:|
+| 지도교수 | 이경수 | 전북대학교 |
+| PM | 강경태 | 전북대학교 |
+| 팀원 | 홍건하 | 전북대학교 |
+| 팀원 | 최홍석 | 전북대학교 |
+| 팀원 | 오준호 | 전북대학교 |
 
-### 팀원
-- **홍건하** (전북대학교)
-- **최홍석** (전북대학교) [LinkedIn](https://www.linkedin.com/in/%ED%99%8D%EC%84%9D-%EC%B5%9C-089b23302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- **오준호** (전북대학교)
-  
+## 🚀 주요 기술
 
-## 일정
+- **Grounding DINO**: 이미지 객체 탐지
+- **Paddle OCR**: 광학 문자 인식
+- **GPT-4**: 텍스트 번역 및 처리
+- **IOPaint**: 이미지 인페인팅
+- **Naver Clova OCR**: 고성능 문자 인식
 
-### 9월
-- **2일:** 오프라인 회의 및 보고서 작성
-- **5일:** 오프라인 회의
+## 📅 프로젝트 타임라인
 
-### 10월
+### 데이터 준비 단계
+- **9월 2일 - 9월 15일**: 프로젝트 초기 기획 및 역할 분담
+- **9월 16일 - 9월 30일**: 선행 연구 및 기술 조사
+- **10월 1일 - 10월 15일**: 서비스 파이프라인 설계 및 데이터 준비
 
-### 11월
+### 모델 개발 단계
+- **10월 16일 - 10월 31일**: Grounding DINO 모델 테스트
+- **11월 1일 - 11월 15일**: OCR 학습 및 성능 개선
+- **11월 16일 - 11월 27일**: AI 번역 및 이미지 처리 기술 구현
 
-### 12월
+### 최종 검증 및 문서화
+- **11월 28일 - 11월 30일**: 모델 성능 분석
+- **12월 1일 - 12월 2일**: 시연 자료 준비
+- **12월 2일 - 12월 20일**: 최종 결과 보고서 작성
 
-## 해야 할 일
+## 🎯 프로젝트 목표
 
-### 전체 인원
-- 인공지능 학습을 위한 웹툰 캐릭터 데이터셋 구축
-- 인공지능 학습을 위한 효과음 데이터셋 구축
-- 효과음 탐지 인공지능 모델 개발
+1. 고성능 다국어 웹툰 번역 AI 데이터셋 구축
+2. 이미지 내 텍스트 및 효과음 자동 인식 기술 개발
+3. 기계 학습 기반 다국어 번역 시스템 구현
 
-### 개별 할 일
-- **강경태:**
-- **홍건하:**
-- **최홍석:**
-- **오준호:**
+## 📊 주요 기술적 성과
 
+- 효과음 자동 추출 프로그램 개발
+- 다중 OCR 모델 성능 비교 분석
+- 이미지 인페인팅을 통한 텍스트 제거 기술 구현
 
+## 🔗 관련 기술
+
+![RoboFlow](https://img.shields.io/badge/RoboFlow-0080FF?style=for-the-badge&logo=roboflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Tesseract](https://img.shields.io/badge/Tesseract-4285F4?style=for-the-badge&logo=google&logoColor=white)
