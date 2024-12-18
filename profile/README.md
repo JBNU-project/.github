@@ -66,7 +66,7 @@
 2. 이미지 내 텍스트 및 효과음 자동 인식 기술 개발
 3. 기계 학습 기반 다국어 번역 시스템 구현
 
-## Grounding DINO 학습 과정
+## 🦖 Grounding DINO 학습 과정
 
 ### Step 1: PSD 파일을 이미지로 변환 및 컷 추출
 ![Screenshot from 2024-12-18 16-16-41](https://github.com/user-attachments/assets/4a7b962b-8000-47e5-be0d-dcd46903350e)
@@ -80,7 +80,7 @@
 ### Step 4: Grounding DINO 학습
 ![Screenshot from 2024-12-18 16-18-56](https://github.com/user-attachments/assets/3a72b1c9-f523-4ad4-ba55-d5618b7ae3cd)
 
-## Paddle OCR 학습 과정
+## 📷 Paddle OCR 학습 과정
 
 ### Step 1: PSD 파일 내 효과음 레이어 찾기
 ![Screenshot from 2024-12-18 16-28-21](https://github.com/user-attachments/assets/f53b87c8-fad2-4e9e-a3ac-6956e5a5167d)
@@ -94,7 +94,7 @@
 ### Step 4: Paddle OCR
 ![Screenshot from 2024-12-18 16-29-12](https://github.com/user-attachments/assets/4a982a86-d27b-4e55-96af-10617d6744ee)
 
-## 효과음 및 대사 제거 과정
+## 🔊 효과음 및 대사 제거 과정
 
 ### Step 1: 이미지 파일 내 효과음 탐지 및 좌표 가져오기
 ![Screenshot from 2024-12-18 16-29-43](https://github.com/user-attachments/assets/c974d87e-6887-49cf-9633-990ba82dbb2f)
