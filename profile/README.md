@@ -16,7 +16,7 @@
 ### 👥 Machina Sapience Team
 | [PM]강경태 | 홍건하 | 최홍석 | 오준호 |
 | :---: | :---: | :---: | :---: |
-| <img width="160px" src= "https://github.com/user-attachments/assets/fa5865d1-5e6e-4738-bb95-eaff0b5b2892"/> | <img width="160px" src= "https://github.com/user-attachments/assets/8c156d05-acee-4d11-8ff3-4659e4a99dd8"/> | <img width="160px" src="https://github.com/user-attachments/assets/c98e0197-3648-4420-9c9e-2e5477fb0f09"/> | <img width="160px" src="[https://github.com/user-attachments/assets/d6e0be30-f2a0-4fe1-8f14-a852c075c617](https://github.com/user-attachments/assets/a279a3a0-2aa7-41d7-84a2-5d46a22c8d93)"/> |
+| <img width="160px" src= "https://github.com/user-attachments/assets/fa5865d1-5e6e-4738-bb95-eaff0b5b2892"/> | <img width="160px" src= "https://github.com/user-attachments/assets/8c156d05-acee-4d11-8ff3-4659e4a99dd8"/> | <img width="160px" src="https://github.com/user-attachments/assets/c98e0197-3648-4420-9c9e-2e5477fb0f09"/> | <img width="160px" src="https://github.com/user-attachments/assets/4daf0370-bbc7-4109-bd10-0feafe8c5aca"/> |
 | [@gyeongtaekang](https://github.com/gyeongtaekang) | [@honggunha](https://github.com/honggunha) | [@ChatHongPT](https://github.com/ChatHongPT) | [@JH218](https://github.com/JH218) | 
 
 
