@@ -6,10 +6,6 @@
 📆 2024.09.02 ~ 2024.12.20
 🖥️ 전북대학교 캡스톤 디자인 프로젝트
 ```
-<div align="center">
-  <a href="https://github.com/JBNU-project/main/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkfpd.org&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%2370FF00&title=Machina+OCR+Main+Repository&edge_flat=false"/></a>
-</div>
-
 ---
 
 ## 🌟 프로젝트 소개
@@ -17,7 +13,10 @@
 본 프로젝트는 웹툰의 다국어 번역을 위한 혁신적인 AI 솔루션 개발을 목표로 합니다. 이미지 처리, OCR, 기계 번역 기술을 결합하여 웹툰의 텍스트와 효과음을 자동으로 인식하고 번역하는 통합 시스템을 구축합니다.
 
 ## 프로젝트 활동 내역
-[Main Repository](https://github.com/JBNU-project/main)
+
+<div align="center">
+  <a href="https://github.com/JBNU-project/main/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkfpd.org&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%2370FF00&title=Machina+OCR+Main+Repository&edge_flat=false"/></a>
+</div>
 
 ## 🛡️ 기술 스택
 
