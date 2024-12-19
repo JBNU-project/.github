@@ -118,7 +118,7 @@
 ![IMG_0400](https://github.com/user-attachments/assets/5d6b578f-cc28-466f-a6cc-9e0160b390fe)
 
 ## 📊 WBS (Work Breakdown Structure)
-![스크린샷, 2024-12-18 14-13-42](https://github.com/user-attachments/assets/2b7569c5-44e3-4c1e-8134-23343352e036)
+<img width="948" alt="스크린샷 2024-12-19 오후 2 45 58" src="https://github.com/user-attachments/assets/a0d68c92-436d-49a6-9c50-d8a69c4ea63d" />
 
 ## 🔗 관련 기술
 
