@@ -28,7 +28,7 @@
 ## 👥 팀 구성
 
 ### 👥 Machina Sapience Team
-| [PM]강경태 | 홍건하 | 최홍석 | 오준호 |
+| [PM]홍건하 | 강경태 | 최홍석 | 오준호 |
 | :---: | :---: | :---: | :---: |
 | <img width="160px" src= "https://github.com/user-attachments/assets/fa5865d1-5e6e-4738-bb95-eaff0b5b2892"/> | <img width="160px" src= "https://github.com/user-attachments/assets/8c156d05-acee-4d11-8ff3-4659e4a99dd8"/> | <img width="160px" src="https://github.com/user-attachments/assets/c98e0197-3648-4420-9c9e-2e5477fb0f09"/> | <img width="160px" src="https://github.com/user-attachments/assets/4daf0370-bbc7-4109-bd10-0feafe8c5aca"/> |
 | [@gyeongtaekang](https://github.com/gyeongtaekang) | [@honggunha](https://github.com/honggunha) | [@ChatHongPT](https://github.com/ChatHongPT) | [@JH218](https://github.com/JH218) | 
